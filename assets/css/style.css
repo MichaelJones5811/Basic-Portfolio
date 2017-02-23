@@ -8,18 +8,21 @@ body {
 
 #myName {
 	background: #4aaaa5;
-	padding: 19px;
+	padding: 5px;
 	text-align: center;
 	float: left;
 	color: #fff;
-	
+	height: 25px;
+
 	margin-left: 85px;
 }
 
 header {
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	background: red;
+	background-color: #fff;
+
 	
+	height: 75px;
 }
 nav {
 	float: right;
